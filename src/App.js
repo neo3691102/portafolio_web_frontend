@@ -3,6 +3,8 @@ import React from 'react'
 import {About, Header, Footer, Skills, Work, Testimonials} from './containers';
 import {Navbar} from './components';
 
+import './App.scss';
+
 
 const App = () => {
   return (
